@@ -1,0 +1,16 @@
+UNSTACK(A,Z)
+STACK(Z,Y)
+PICKUP(Z)
+STACK(W,E)
+/OPERATOR
+/PRECONDITIONS
+(and(w.....).....)
+(not......
+(exists....)
+(or....)))
+(POSTCONDITIONS...
+(ADD(...))
+(DELETE(...))
+(IF(AND(...)...
+(ADD(...)(...))
+(DELETE(...)(....))))))
